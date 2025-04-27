@@ -1,0 +1,1 @@
+SLL instruction does not shift the input when sandwiched between R-type instructions that use the same source register(rt), unless those R-type instructions happen to be other shift instructions.
